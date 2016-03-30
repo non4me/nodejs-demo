@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="bin/server" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="/usr/local/bin/node" path-to-js-file="bin/server" application-parameters="--harmony" working-dir="$PROJECT_DIR$/../ukazka-ibillboard">
+    <envs>
+      <env name="DEBUG" value="untitled:*" />
+    </envs>
+    <browser url="http://localhost:3000/" />
+    <method />
+  </configuration>
+</component>
